@@ -201,7 +201,7 @@ originalDict = {
         "threePlayers": 1,
         "fourPlayers": 1,
         "fivePlayers": 1,
-        "task": "Ich gewinne\nmehr ♡ als ♢\n(♢Karten >0)"
+        "task": "Ich gewinne\nmehr ♡ als ♢\n(♢>0)"
     },
     35: {
         "threePlayers": 3,
