@@ -94,3 +94,41 @@ body {
 .lineBreak {
     flex-basis: 100%;
 }
+
+@media only screen and (max-width: 780px) {
+   .task {
+    height: 135px;
+    width: 90px;
+    font-size: 14px;
+   }
+
+   .buttonPlusMinus {
+    height: 30px;
+    width: 30px;
+    font-size: 19px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+    .label {
+        text-align: center;
+        color: rgba(255, 255, 255, 0.705);
+        font-size: 14px;
+}
+
+#buttonStart {
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+    justify-content: center;
+    margin-top: 13px;
+}
+
+#buttonSort {
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+  
+} 
+  
