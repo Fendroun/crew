@@ -592,9 +592,9 @@ var taskArrayPos = 0;
 /*colors */
 var colorTaskStandard = "rgba(220, 224, 255, 0.323)" //light blue
 var colorPlayer1 = "rgb(81,120,62)" //green
-var colorPlayer2 = "rgb(172,50,32)"
+var colorPlayer2 = "rgb(184,138,0)"
 var colorPlayer3 = "rgb(116,62,122)"
-var colorPlayer4 = "rgb(184,138,0)"
+var colorPlayer4 = "rgb(172,50,32)"
 var colorPlayer5 = "rgb(2,0,121)"
 /*******************************************/
 /* EventListeners */
