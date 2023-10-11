@@ -135,7 +135,7 @@ originalDict = {
         "threePlayers": 2,
         "fourPlayers": 3,
         "fivePlayers": 3,
-        "task": "Ich gewinne\nd♣9 und ♡8"
+        "task": "Ich gewinne\n♣9 und ♡8"
     },
     24: {
         "threePlayers": 4,
