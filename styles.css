@@ -107,7 +107,10 @@ body {
     width: 30px;
     font-size: 19px;
     margin-top: 0px;
-    font-size: 15px;
+    font-size: 14px;
+    justify-content: center;
+    margin-left: 3px;
+    margin-right: 3px
 }
     .label {
         text-align: center;
